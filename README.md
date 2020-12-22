@@ -1,4 +1,4 @@
-# heroku-button-cdp
+# heroku-button-demo
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
